@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Quy-vagabond-raccoon
+- 👋 Hi, I’m Quy Nguyen
 - 👀 I’m interested in books, cat, coding
-- 🌱 I’m currently learning web developmen
+- 🌱 I’m currently learning web development
 
 <!---
 Quy-vagabond-raccoon/Quy-vagabond-raccoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
